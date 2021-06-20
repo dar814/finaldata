@@ -1,0 +1,353 @@
+{
+    "name": "finaldata",
+    "children": [
+        {
+            "name": "Nintendo Switch",
+            "children": [
+                {
+                    "name": "2017",
+                    "children": [
+                        {
+                            "name": "2K Sports",
+                            "children": [
+                                {"name" :" NBA 2K18 ",  "children":[{"name":" NBA 2K18 ","value": 430 ,"index":" 76 "}]}
+                                ,{"name" :" WWE 2K18 ",  "children":[{"name":" WWE 2K18 ","value": 230 ,"index":" 105 "}]}
+                            ]
+                        },
+                        {
+                            "name": "Activision",
+                            "children": [
+                                {"name" :" Skylanders Imaginators ",  "children":[{"name":" Skylanders Imaginators ","value": 230 ,"index":" 107 "}]}
+                            ]
+                        },
+                        {
+                            "name": "Alliance Digital Media",
+                            "children": [
+                                {"name" :" Stern Pinball Arcade ",  "children":[{"name":" Stern Pinball Arcade ","value": 60 ,"index":" 173 "}]}
+                            ]
+                        },
+                        {
+                            "name": "Bethesda Softworks",
+                            "children": [
+                                   {"name" :" The Elder Scrolls V: Skyrim ",  "children":[{"name":" The Elder Scrolls V: Skyrim ","value": 1150 ,"index":" 41 "}]}
+                                  ,{"name" :" Doom (2016) ",  "children":[{"name":" Doom (2016) ","value": 430 ,"index":" 77 "}]}
+                            ]
+                        }
+                        ,
+                        {
+                            "name": "Capcom",
+                            "children": [
+                                {"name" :" Ultra Street Fighter II: The Final Challengers ",  "children":[{"name":" Ultra Street Fighter II: The Final Challengers ","value": 570 ,"index":" 65 "}]}
+                               ,{"name" :" Resident Evil: Revelations Collection ",  "children":[{"name":" Resident Evil: Revelations Collection ","value": 270 ,"index":" 96 "}]}
+                            ]
+                        },
+                        {
+                            "name": "Devolver Digital",
+                            "children": [
+                                {"name" :" Enter the Gungeon ",  "children":[{"name":" Enter the Gungeon ","value": 1000 ,"index":" 46 "}]}
+                            ]
+                        },
+                        {
+                            "name": "DotEmu",
+                            "children": [
+                                {"name" :" Wonder Boy: The Dragon's Trap (Remake) ",  "children":[{"name":" Wonder Boy: The Dragon's Trap (Remake) ","value": 50 ,"index":" 193 "}]}
+                            ]
+                        },
+                        {
+                            "name": "EA Sports",
+                            "children": [
+                                {"name" :" FIFA 18 ",  "children":[{"name":" FIFA 18 ","value": 1100 ,"index":" 43 "}]}
+                            ]
+                        },
+                        {
+                            "name": "Flyhigh Works",
+                            "children": [
+                                {"name" :" Kamiko ",  "children":[{"name":" Kamiko ","value": 250 ,"index":" 103 "}]}
+                            ]
+                        },
+                        {
+                            "name": "Focus Home Interactive",
+                            "children": [
+                                {"name" :" Farming Simulator 17 ",  "children":[{"name":" Farming Simulator 17 ","value": 130 ,"index":" 134 "}]}
+                            ]
+                        },
+                        {
+                            "name": "GameMill",
+                            "children": [
+                                {"name" :" Monster Jam: Crush It ",  "children":[{"name":" Monster Jam: Crush It ","value": 80 ,"index":" 156 "}]}
+                            ]
+                        },
+                        {
+                            "name": "GameMill Entertainment",
+                            "children": [
+                                {"name" :" Cartoon Network: Battle Crashers ",  "children":[{"name":" Cartoon Network: Battle Crashers ","value": 80 ,"index":" 153 "}]}
+                            ]
+                        },
+                        {
+                            "name": "GameTrust",
+                            "children": [
+                                {"name" :" Has-Been Heroes ",  "children":[{"name":" Has-Been Heroes ","value": 140 ,"index":" 125 "}]}
+                            ]
+                        },
+                        {
+                            "name": "Grey Box",
+                            "children": [
+                                {"name" :" RiME ",  "children":[{"name":" RiME ","value": 150 ,"index":" 123 "}]}
+                            ]
+                        },
+                        {
+                            "name": "Konami Digital Entertainment",
+                            "children": [
+                                {"name" :" Super Bomberman R ",  "children":[{"name":" Super Bomberman R ","value": 870 ,"index":" 50 "}]}
+                            ]
+                        },
+                        {
+                            "name": "Mastiff",
+                            "children": [
+                                {"name" :" Party Planet ",  "children":[{"name":" Party Planet ","value": 120 ,"index":" 141 "}]}
+                            ]
+                        },
+                        {
+                            "name": "Maximum Games",
+                            "children": [
+                                {"name" :" Troll and I ",  "children":[{"name":" Troll and I ","value": 100 ,"index":" 147 "}]}
+                            ]
+                        },
+                        {
+                            "name": "Microids",
+                            "children": [
+                                {"name" :" Gear.Club Unlimited ",  "children":[{"name":" Gear.Club Unlimited ","value": 150 ,"index":" 124 "}]}
+                            ]
+                        },
+                        {
+                            "name": "Milestone S.r.l.",
+                            "children": [
+                                {"name" :" MXGP 3: The Official Motocross Videogame ",  "children":[{"name":" MXGP 3: The Official Motocross Videogame ","value": 80 ,"index":" 152 "}]}
+                            ]
+                        },
+                        {
+                            "name": "MLB.com",
+                            "children": [
+                                {"name" :" R.B.I. Baseball 2017 ",  "children":[{"name":" R.B.I. Baseball 2017 ","value": 80 ,"index":" 155 "}]}
+                            ]
+                        },
+                        {
+                            "name": "Namco Bandai Games",
+                            "children": [
+                                {"name" :" Dragon Ball: Xenoverse 2 ",  "children":[{"name":" Dragon Ball: Xenoverse 2 ","value": 500 ,"index":" 68 "}]}
+                               ,{"name" :" One Piece: Unlimited World Red Deluxe Edition ",  "children":[{"name":" One Piece: Unlimited World Red Deluxe Edition ","value": 70 ,"index":" 161 "}]}
+                            ]
+                        },
+                        {
+                            "name": "Nicalis",
+                            "children": [
+                                {"name" :" The Binding of Isaac: Afterbirth+ ",  "children":[{"name":" The Binding of Isaac: Afterbirth+ ","value": 280 ,"index":" 95 "}]}
+                               ,{"name" :" Cave Story+ ",  "children":[{"name":" Cave Story+ ","value": 150 ,"index":" 120 "}]}
+                               ,{"name" :" Ittle Dew 2+ ",  "children":[{"name":" Ittle Dew 2+ ","value": 60 ,"index":" 170 "}]}
+                               ,{"name" :" The End is Nigh ",  "children":[{"name":" The End is Nigh ","value": 60 ,"index":" 181 "}]}
+                               ,{"name" :" Tiny Barbarian DX ",  "children":[{"name":" Tiny Barbarian DX ","value": 60 ,"index":" 182 "}]}
+                            ]
+                        },
+                        {
+                            "name": "Nighthawk Interactive",
+                            "children": [
+                                {"name" :" Azure Striker Gunvolt: Striker Pack ",  "children":[{"name":" Azure Striker Gunvolt: Striker Pack ","value": 60 ,"index":" 176 "}]}
+                            ]
+                        },
+                        {
+                            "name": "Nintendo",
+                            "children": [
+                                {"name" :" Mario Kart 8 Deluxe ",  "children":[{"name":" Mario Kart 8 Deluxe ","value": 35390 ,"index":" 1 "}]}
+                                ,{"name" :" The Legend of Zelda: Breath of the Wild ",  "children":[{"name":" The Legend of Zelda: Breath of the Wild ","value": 22280 ,"index":" 4 "}]}
+                                ,{"name" :" Super Mario Odyssey ",  "children":[{"name":" Super Mario Odyssey ","value": 20830 ,"index":" 6 "}]}
+                                ,{"name" :" Splatoon 2 ",  "children":[{"name":" Splatoon 2 ","value": 12210 ,"index":" 9 "}]}
+                                ,{"name" :" 1-2-Switch ",  "children":[{"name":" 1-2-Switch ","value": 3180 ,"index":" 19 "}]}
+                                ,{"name" :" ARMS ",  "children":[{"name":" ARMS ","value": 2380 ,"index":" 27 "}]}
+                                ,{"name" :" Xenoblade Chronicles 2 ",  "children":[{"name":" Xenoblade Chronicles 2 ","value": 2050 ,"index":" 28 "}]}
+                                ,{"name" :" Pokken Tournament DX ",  "children":[{"name":" Pokken Tournament DX ","value": 1160 ,"index":" 40 "}]}
+                                ,{"name" :" Fire Emblem Warriors ",  "children":[{"name":" Fire Emblem Warriors ","value": 500 ,"index":" 67 "}]}
+                                ,{"name" :" Snipperclips Plus: Cut It Out, Together! ",  "children":[{"name":" Snipperclips Plus: Cut It Out, Together! ","value": 120 ,"index":" 137 "}]}
+                            ]
+                        },
+                        {
+                            "name": "Nippon Columbia",
+                            "children": [
+                                {"name" :" Sumikko Gurashi: Sumikko Park e Youkoso ",  "children":[{"name":" Sumikko Gurashi: Sumikko Park e Youkoso ","value": 100 ,"index":" 148 "}]}
+                            ]
+                        },
+                        {
+                            "name": "NIS America",
+                            "children": [
+                                {"name" :" Disgaea 5 Complete ",  "children":[{"name":" Disgaea 5 Complete ","value": 200 ,"index":" 110 "}]}
+                               ,{"name" :" Touhou Kobuto V: Burst Battle ",  "children":[{"name":" Touhou Kobuto V: Burst Battle ","value": 60 ,"index":" 171 "}]}
+                            ]
+                        },
+                        {
+                            "name": "Outright Games",
+                            "children": [
+                                {"name" :" Ben 10 (2017) ",  "children":[{"name":" Ben 10 (2017) ","value": 80 ,"index":" 154 "}]}
+                            ]
+                        },
+                        {
+                            "name": "Polykid",
+                            "children": [
+                                {"name" :" Poi ",  "children":[{"name":" Poi ","value": 70 ,"index":" 160 "}]}
+                            ]
+                        },
+                        {
+                            "name": "Rockstar Games",
+                            "children": [
+                                {"name" :" L.A. Noire ",  "children":[{"name":" L.A. Noire ","value": 450 ,"index":" 73 "}]}
+                            ]
+                        },
+                        {
+                            "name": "Sega",
+                            "children": [
+                                {"name" :" Puyo Puyo Tetris ",  "children":[{"name":" Puyo Puyo Tetris ","value": 1000 ,"index":" 48 "}]}
+                               ,{"name" :" Sonic Forces ",  "children":[{"name":" Sonic Forces ","value": 740 ,"index":" 54 "}]}
+                               ,{"name" :" Sonic Mania ",  "children":[{"name":" Sonic Mania ","value": 470 ,"index":" 70 "}]}
+                            ]
+                        },
+                        {
+                            "name": "Square Enix",
+                            "children": [
+                                    {"name" :" Dragon Quest Heroes I & II for Nintendo Switch ",  "children":[{"name":" Dragon Quest Heroes I & II for Nintendo Switch ","value": 90 ,"index":" 149 "}]}
+                                    ,{"name" :" Seiken Densetsu Collection ",  "children":[{"name":" Seiken Densetsu Collection ","value": 70 ,"index":" 158 "}]}
+                                    ,{"name" :" I am Setsuna ",  "children":[{"name":" I am Setsuna ","value": 50 ,"index":" 191 "}]}
+                                    ,{"name" :" Minna de Wai Wai! Spelunker ",  "children":[{"name":" Minna de Wai Wai! Spelunker ","value": 40 ,"index":" 199 "}]}
+                                    ,{"name" :" Dragon Quest X: All in One Package ",  "children":[{"name":" Dragon Quest X: All in One Package ","value": 40 ,"index":" 200 "}]}
+                            ]
+                        },
+                        {
+                            "name": "Tecmo Koei",
+                            "children": [
+                                {"name" :" Nights of Azure 2: Bride of the New Moon ",  "children":[{"name":" Nights of Azure 2: Bride of the New Moon ","value": 60 ,"index":" 168 "}]}
+                            ]
+                        },
+                        {
+                            "name": "Telltale Games",
+                            "children": [
+                                {"name" :" Minecraft: Story Mode - The Complete Adventure ",  "children":[{"name":" Minecraft: Story Mode - The Complete Adventure ","value": 460 ,"index":" 71 "}]}
+                                ,{"name" :" Batman: A Telltale Game Series ",  "children":[{"name":" Batman: A Telltale Game Series ","value": 120 ,"index":" 136 "}]}
+                            ]
+                        },
+                        {
+                            "name": "Thomas Happ Games",
+                            "children": [
+                                {"name" :" Axiom Verge ",  "children":[{"name":" Axiom Verge ","value": 170 ,"index":" 116 "}]}
+                            ]
+                        },
+                        {
+                            "name": "Ubisoft",
+                            "children": [
+                                {"name" :" Mario + Rabbids: Kingdom Battle ",  "children":[{"name":" Mario + Rabbids: Kingdom Battle ","value": 2000 ,"index":" 30 "}]}
+                                ,{"name" :" Just Dance 2018 ",  "children":[{"name":" Just Dance 2018 ","value": 760 ,"index":" 52 "}]}
+                                ,{"name" :" Rayman Legends ",  "children":[{"name":" Rayman Legends ","value": 690 ,"index":" 59 "}]}
+                                ,{"name" :" Monopoly for Nintendo Switch ",  "children":[{"name":" Monopoly for Nintendo Switch ","value": 300 ,"index":" 90 "}]}
+                                ,{"name" :" Just Dance 2017 ",  "children":[{"name":" Just Dance 2017 ","value": 290 ,"index":" 93 "}]}
+                            ]
+                        },
+                        {
+                            "name": "Warner Bros",
+                            "children": [
+                                {"name" :" LEGO Marvel Super Heroes 2 ",  "children":[{"name":" LEGO Marvel Super Heroes 2 ","value": 670 ,"index":" 61 "}]}
+                                ,{"name" :" LEGO City Undercover ",  "children":[{"name":" LEGO City Undercover ","value": 650 ,"index":" 62 "}]}
+                                ,{"name" :" LEGO Worlds ",  "children":[{"name":" LEGO Worlds ","value": 580 ,"index":" 64 "}]}
+                                ,{"name" :" The Lego Ninjago Movie Videogame ",  "children":[{"name":" The Lego Ninjago Movie Videogame ","value": 400 ,"index":" 80 "}]}
+                            ,{"name" :" Cars 3: Driven to Win ",  "children":[{"name":" Cars 3: Driven to Win ","value": 320 ,"index":" 88 "}]}
+                            ]
+                        },
+                        {
+                            "name": "Xseed Games",
+                            "children": [
+                                {"name" :" Fate/Extella: The Umbral Star ",  "children":[{"name":" Fate/Extella: The Umbral Star ","value": 210 ,"index":" 109 "}]}
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "2018",
+                    "value": 3812
+                },
+                {
+                    "name": "2019",
+                    "value": 6714
+                },
+                {
+                    "name": "2020",
+                    "value": 743
+                },
+                {
+                    "name": "2021",
+                    "value": 743
+                }
+            ]
+        },
+        {
+            "name": "Playstation 4",
+            "children": [
+                {
+                    "name": "2013",
+                    "value": 3938
+                },
+                {
+                    "name": "2014",
+                    "value": 3812
+                },
+                {
+                    "name": "2015",
+                    "value": 6714
+                },
+                {
+                    "name": "2016",
+                    "value": 743
+                },
+                {
+                    "name": "2017",
+                    "value": 743
+                },
+                {
+                    "name": "2018",
+                    "value": 743
+                },
+                {
+                    "name": "2020",
+                    "value": 743
+                }
+            ]
+        },
+        {
+            "name": "Xbox One",
+            "children": [
+                {
+                    "name": "2013",
+                    "value": 3938
+                },
+                {
+                    "name": "2014",
+                    "value": 3812
+                },
+                {
+                    "name": "2015",
+                    "value": 6714
+                },
+                {
+                    "name": "2016",
+                    "value": 8787
+                },
+                {
+                    "name": "2017",
+                    "value": 87
+                },
+                {
+                    "name": "2018",
+                    "value": 787
+                },
+                {
+                    "name": "2020",
+                    "value": 7878
+                }
+            ]
+        }
+    ]
+}
